@@ -1,13 +1,28 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+
+import TrazList from './components/TrazList/TrazList';
+import TrazForm from './components/TrazForm/TrazForm';
+
+import Container from 'react-bootstrap/Container';
+import CardGroup from 'react-bootstrap/CardGroup';
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'react-bootstrap-typeahead/css/Typeahead.css';
+import './index.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <App/>
+    <Container>
+      <CardGroup className="cardGroup">
+        <TrazForm/>
+        <TrazList/>
+      </CardGroup>
+    </Container>
   </React.StrictMode>
 );
 

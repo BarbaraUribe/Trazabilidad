@@ -1,0 +1,14 @@
+@import './../../App.css';
+
+.TrazList {}
+
+.SearchCol{
+ text-align: center;
+ font-size: medium;
+ font-weight: normal;
+}
+
+.ListRow{
+    margin-top: 1% !important;
+}
+

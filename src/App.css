@@ -1,38 +1,63 @@
+:root{
+  --amber50: #fff8e1;
+  --amber100: #ffecb3;
+  --amber200: #ffe082;
+  --amber300: #ffd54f;
+  --amber400: #ffca28;
+  --amber500: #ffc107;
+  --amber600: #ffb300;
+  --amber700: #ffa000;
+  --amber800: #ff8f00;
+  --amber900: #ff6f00;
+
+  --deepPurple50: #ede7f6;
+  --deepPurple100: #d1c4e9;
+  --deepPurple200: #b39ddb;
+  --deepPurple300: #9575cd;
+  --deepPurple400: #7e57c2;
+  --deepPurple500: #673ab7;
+  --deepPurple600: #5e35b1;
+  --deepPurple700: #512da8;
+  --deepPurple800: #4527a0;
+  --deepPurple900: #311b92;
+
+  --red500: #f44336;
+  --red600: #e53935;
+
+  background-color: var(--amber100);
+}
+
+.PrimaryBtn {
+  width: 23%;
+  background-color: var(--amber500) !important;
+  border-color: var(--amber600) !important;
+}
+
+.Navbar {
+  background-color: var(--amber500);
+}
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.CardTitle {
+  padding: 3%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.CardTitleForm{
+  padding: 3%;
+  padding-bottom: 5%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.AttendanceCardBody {
+  font-size: large !important;
+  max-height: 400px;
+  overflow-y: scroll;
+  margin-left: 3%;
+  margin-right: 3%;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Plus {
+  margin-right: 10%;
 }

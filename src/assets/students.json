@@ -1,0 +1,832 @@
+[
+  {
+    "rut": "6306c6484f7c01a13fd1cde94",
+    "email": "mason_warren@gmail.com",
+    "name": "Mason Warren",
+    "attendance": [
+      {
+        "id": "6306c64828e82b190df1cfa3",
+        "checkin": "2021-11-24T15:14:34.230Z",
+        "checkout": null
+      },
+      {
+        "rut": "6306c648f439385f65e37707",
+        "checkin": "2022-11-28T11:30:56.716Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648bb654ed67852a0ef",
+        "checkin": "2021-12-01T17:30:59.781Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648c07efaed775e22e1",
+        "checkin": "2021-03-30T09:35:32.487Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64894a8c04b047047f6",
+        "checkin": "2021-05-12T16:59:49.906Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648bf0d8f8b4b213e28",
+        "checkin": "2022-07-31T07:58:12.848Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6486d9bea444364d4a6",
+        "checkin": "2021-12-17T21:01:46.160Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648f6ba6343383ad779",
+        "checkin": "2022-05-28T13:57:09.689Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648bf71fa2fe6c0d5a9",
+        "checkin": "2022-03-10T22:12:09.082Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6488614928a022511f1",
+        "checkin": "2021-02-22T21:35:39.557Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648c3a7b5285ed5973e",
+        "checkin": "2022-02-20T14:19:07.674Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6484db0467aeef23a65",
+        "checkin": "2021-08-08T08:05:04.358Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648329e779cf2ede541",
+        "checkin": "2021-09-04T06:15:21.992Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64879a974428aa55ada",
+        "checkin": "2021-02-09T02:43:59.307Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64802fceb00134a1b1b",
+        "checkin": "2022-11-04T06:14:51.986Z",
+        "checkout": null
+      }
+    ]
+  },
+  {
+    "rut": "6306c648f981787961572436",
+    "email": "odonnell_morales@gmail.com",
+    "name": "Odonnell Morales",
+    "attendance": [
+      {
+        "id": "6306c6489aa5a0fc287ed4e5",
+        "checkin": "2021-05-29T19:30:53.614Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6489fc6112be025c16c",
+        "checkin": "2021-07-14T01:21:53.522Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64897c70a03893a0f03",
+        "checkin": "2022-05-04T09:20:41.525Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648230fa1ca4cf7f4cc",
+        "checkin": "2022-01-08T11:56:00.767Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648478e9e21fd76b5ea",
+        "checkin": "2022-07-10T01:43:20.386Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648f010fcdcc6662115",
+        "checkin": "2021-08-15T09:57:45.318Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6482a1d8e3d9f9e5583",
+        "checkin": "2021-07-09T02:05:21.411Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6487a6c8c84948278b3",
+        "checkin": "2022-12-05T03:15:37.212Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64811667e0fead21b3d",
+        "checkin": "2022-12-08T10:36:27.544Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6489ae08a35b4b9e776",
+        "checkin": "2022-03-28T06:32:02.455Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648f6a1dafc9853e61c",
+        "checkin": "2021-08-01T13:01:18.639Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64865e6d18095d259b4",
+        "checkin": "2021-01-25T14:43:32.279Z",
+        "checkout": null
+      }
+    ]
+  },
+  {
+    "rut": "6306c648a82f21de6f395f50",
+    "email": "church_french@gmail.com",
+    "name": "Church French",
+    "attendance": [
+      {
+        "id": "6306c648484caa2b5c436877",
+        "checkin": "2021-10-03T15:07:27.709Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648fe6e1de495839c24",
+        "checkin": "2021-03-09T07:51:00.268Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648711c4107a1c3c1f0",
+        "checkin": "2021-02-21T05:39:09.862Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6483732d30e48a34963",
+        "checkin": "2021-11-20T06:10:16.671Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648ef2eaf710a30c8d7",
+        "checkin": "2021-02-18T08:52:41.469Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648aa46b1791e7aabf6",
+        "checkin": "2022-03-09T21:45:06.520Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6484c903e8777bb54ed",
+        "checkin": "2022-12-05T14:10:26.887Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64807cbbba7fb28c9c9",
+        "checkin": "2022-07-03T13:24:56.382Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648a3b963872900836d",
+        "checkin": "2022-12-24T16:59:30.175Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648ddb9f5fb32dc62e0",
+        "checkin": "2022-11-13T17:49:42.372Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6486fed365e6fbc8459",
+        "checkin": "2021-10-14T10:24:06.487Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6480d3482df016bb877",
+        "checkin": "2021-01-01T16:52:01.452Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648da5e7bb12b088be1",
+        "checkin": "2021-10-11T00:32:13.034Z",
+        "checkout": null
+      }
+    ]
+  },
+  {
+    "rut": "6306c648b04389154cc233af",
+    "email": "amber_gregory@gmail.com",
+    "name": "Amber Gregory",
+    "attendance": [
+      {
+        "id": "6306c6482b7d7f67d3509e0e",
+        "checkin": "2022-10-30T13:24:24.093Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648dc3bc3a648fd36f6",
+        "checkin": "2021-03-28T21:23:30.956Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64813fc7f95f8755e78",
+        "checkin": "2022-06-11T19:25:38.575Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6488802e1a328ee0c89",
+        "checkin": "2021-10-04T15:44:02.518Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648dded8070bbd3f0a5",
+        "checkin": "2022-03-17T02:29:11.923Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6485a7372bc251d83b5",
+        "checkin": "2022-09-17T20:53:21.548Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648f2add92a134ee4e3",
+        "checkin": "2022-11-14T21:28:47.253Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64810381394cfb8f31e",
+        "checkin": "2021-11-12T02:18:08.177Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6480ca64b4329bf6ec9",
+        "checkin": "2021-02-17T09:40:28.946Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6488a63c2e1b2af25c9",
+        "checkin": "2022-06-09T01:33:37.354Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64830a11a94e21d0281",
+        "checkin": "2022-11-02T09:35:56.313Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64898298d3596636484",
+        "checkin": "2022-02-09T18:38:57.254Z",
+        "checkout": null
+      }
+    ]
+  },
+  {
+    "rut": "6306c648e76a2277cf2364594",
+    "email": "nina_austin@gmail.com",
+    "name": "Nina Austin",
+    "attendance": [
+      {
+        "id": "6306c64891a647bb7f8eccf8",
+        "checkin": "2021-11-12T17:56:28.609Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648759dbe5b427727ef",
+        "checkin": "2022-09-24T06:40:41.056Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64839a535c77dd4d958",
+        "checkin": "2022-10-21T19:38:47.436Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648b95dd40055885e14",
+        "checkin": "2022-10-13T20:47:46.553Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648d89dc4b44adecaf2",
+        "checkin": "2021-12-18T02:39:28.604Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6483f46ace75edf0150",
+        "checkin": "2021-08-10T21:53:27.645Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648621fe8b618f710e9",
+        "checkin": "2022-08-28T19:33:01.831Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648cbe52e144f207a09",
+        "checkin": "2022-12-15T06:35:57.673Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648319768d20b61dba6",
+        "checkin": "2022-03-23T08:28:24.850Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6486d728c0a5caebf88",
+        "checkin": "2021-03-10T08:42:27.795Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6485a937165b105a408",
+        "checkin": "2021-07-13T22:48:41.090Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648c33d624bdaf17473",
+        "checkin": "2022-02-16T22:10:07.824Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648e003cbacc2300628",
+        "checkin": "2021-07-15T07:29:11.942Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648aef1a27a00ff3894",
+        "checkin": "2021-03-08T19:15:49.786Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64865e519a5ce13d32d",
+        "checkin": "2022-02-08T14:47:17.296Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6486df42c4072482ffc",
+        "checkin": "2021-09-27T19:49:27.088Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648556db116fb3c8f78",
+        "checkin": "2022-08-03T09:05:22.956Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64866dde09dcb873eba",
+        "checkin": "2022-07-23T19:37:22.012Z",
+        "checkout": null
+      }
+    ]
+  },
+  {
+    "rut": "6306c648c17082d872ccff96",
+    "email": "aline_ingram@gmail.com",
+    "name": "Aline Ingram",
+    "attendance": [
+      {
+        "id": "6306c64812143093871359aa",
+        "checkin": "2022-08-04T20:53:32.313Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648074367a0c768707a",
+        "checkin": "2022-03-23T22:33:04.287Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6481deeea6034e012a3",
+        "checkin": "2022-10-13T09:05:34.071Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648288833164d56dfc4",
+        "checkin": "2021-04-26T19:50:48.850Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648e9fe7af9cb1fd199",
+        "checkin": "2021-01-17T06:08:00.758Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648c353b6b478bd54f0",
+        "checkin": "2021-06-14T19:24:06.388Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648a2cc21b78cca7b00",
+        "checkin": "2021-10-04T03:04:15.144Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648881640476263401a",
+        "checkin": "2022-12-03T10:29:33.589Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648291b86087bc2625c",
+        "checkin": "2021-11-07T18:44:51.770Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648deeae5ff24bd9d8a",
+        "checkin": "2021-12-24T14:37:36.376Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6486015d9e541eba7fc",
+        "checkin": "2022-04-25T19:28:16.333Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64859dc142915f34fd4",
+        "checkin": "2021-06-28T00:44:09.868Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648b51187320b43968b",
+        "checkin": "2022-03-18T16:24:27.361Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6481aad6ded4d93a32c",
+        "checkin": "2022-12-03T21:52:11.041Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648d02055a19c6fb112",
+        "checkin": "2021-10-02T16:31:59.559Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6486912487390565817",
+        "checkin": "2022-11-14T04:01:44.675Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6483168278bc24ee8e9",
+        "checkin": "2021-02-15T10:51:42.546Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64807279cc2ebb497b7",
+        "checkin": "2022-10-07T12:01:18.419Z",
+        "checkout": null
+      }
+    ]
+  },
+  {
+    "rut": "6306c648605e84965a4d6d62",
+    "email": "talley_campos@gmail.com",
+    "name": "Talley Campos",
+    "attendance": [
+      {
+        "id": "6306c6489468e86959a4ad50",
+        "checkin": "2022-05-25T13:35:08.232Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6487b8c6beb628d3c51",
+        "checkin": "2021-12-21T09:22:08.498Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648dbda667620acf682",
+        "checkin": "2022-11-25T15:17:52.206Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648419d9d5665fe0b22",
+        "checkin": "2021-11-08T21:35:03.186Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6484c56bdd2fbf0014f",
+        "checkin": "2022-09-16T21:41:59.466Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6484fb37198cdb0f69c",
+        "checkin": "2022-06-01T21:25:40.869Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648e0fceca725144c96",
+        "checkin": "2021-07-31T22:36:38.332Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64825d665e65ad6df64",
+        "checkin": "2021-04-12T03:27:35.814Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64851144e4c9f53e605",
+        "checkin": "2021-02-11T04:39:55.021Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6484136e89c87e4be40",
+        "checkin": "2021-02-27T16:43:48.572Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6486a06234cbdcb09d3",
+        "checkin": "2021-04-21T05:20:25.559Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648c463d130426a4bb6",
+        "checkin": "2022-08-30T05:14:03.043Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648f59da2c4a6d97a68",
+        "checkin": "2022-02-01T11:14:11.718Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64894b021bbc1021454",
+        "checkin": "2022-08-28T08:01:18.442Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64834a4cd02fd9c5fe8",
+        "checkin": "2022-01-15T14:42:31.757Z",
+        "checkout": null
+      }
+    ]
+  },
+  {
+    "rut": "6306c648aea6658adb30c17d",
+    "email": "coffey_koch@gmail.com",
+    "name": "Coffey Koch",
+    "attendance": [
+      {
+        "id": "6306c648e4f03482844fd191",
+        "checkin": "2022-03-15T19:16:44.408Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648b9bff31054e95046",
+        "checkin": "2021-12-18T20:10:46.939Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64894c751739f766133",
+        "checkin": "2022-09-17T06:40:07.210Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6488f84ad3b8290f274",
+        "checkin": "2021-05-24T05:38:07.606Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64809f6ae614e6a12d1",
+        "checkin": "2022-01-14T23:54:46.472Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648659c4cab0044de6a",
+        "checkin": "2022-09-22T17:00:19.510Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648a7f5d06e468b8423",
+        "checkin": "2021-08-20T00:54:42.001Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64836f27bb247e2d50c",
+        "checkin": "2022-09-26T06:23:50.162Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648a79d2cbbe919df39",
+        "checkin": "2021-11-28T16:57:19.048Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648957d5e37ddddd6d0",
+        "checkin": "2021-02-11T19:39:51.497Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648394b56f02b31d6cc",
+        "checkin": "2022-11-30T06:22:03.871Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648383d0ef687d4afd4",
+        "checkin": "2021-11-09T02:04:18.098Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6480ea689dae648ac75",
+        "checkin": "2021-12-01T18:11:13.080Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64800fc4bfd1fd69f30",
+        "checkin": "2021-09-01T15:14:17.573Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648eb8067dc923914dc",
+        "checkin": "2022-08-02T05:27:12.960Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64881c36b53f047d0a7",
+        "checkin": "2022-04-18T02:56:57.415Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64826b3e042294bdc0b",
+        "checkin": "2021-11-18T11:28:32.221Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648ae2538b17a709b79",
+        "checkin": "2022-03-24T05:33:39.084Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6480535f0e7323d438d",
+        "checkin": "2022-04-27T02:31:38.483Z",
+        "checkout": null
+      }
+    ]
+  },
+  {
+    "rut": "6306c648cf9b130b441a5981",
+    "email": "concepcion_burke@gmail.com",
+    "name": "Concepcion Burke",
+    "attendance": [
+      {
+        "id": "6306c64816db3246ff27f682",
+        "checkin": "2022-09-05T22:13:46.146Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64862d577f4865c0cbe",
+        "checkin": "2022-12-13T21:56:34.894Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64803da18a75b72e039",
+        "checkin": "2022-08-23T07:42:43.897Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64829669cf212687c15",
+        "checkin": "2021-07-25T14:18:53.737Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64853e4ad5d748fd6de",
+        "checkin": "2022-11-30T11:05:16.813Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648d1d2a2db7861a7d0",
+        "checkin": "2021-05-06T17:38:27.365Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648c6c75d33c80ae940",
+        "checkin": "2021-05-30T19:46:13.565Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64820f9a66182bac1e6",
+        "checkin": "2021-02-17T03:46:04.834Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64892928e8dfa7df6b4",
+        "checkin": "2021-09-08T20:29:32.702Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64889db17ce18041c5c",
+        "checkin": "2021-10-08T00:27:09.736Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648eef9a5c6e1228b49",
+        "checkin": "2022-11-01T21:08:12.077Z",
+        "checkout": null
+      }
+    ]
+  },
+  {
+    "rut": "6306c648d79c284c2210a3fe",
+    "email": "austin_bird@gmail.com",
+    "name": "Austin Bird",
+    "attendance": [
+      {
+        "id": "6306c648f1dc8dff86a2c48a",
+        "checkin": "2022-09-08T04:35:39.670Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64836974bf32982c0b8",
+        "checkin": "2021-07-08T09:36:01.356Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648f8b7796a0fc33267",
+        "checkin": "2022-01-14T03:17:32.401Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6487247c6a5911d1577",
+        "checkin": "2022-11-02T16:44:20.435Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648a535c43b58747e3f",
+        "checkin": "2021-08-24T07:17:59.092Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6488ed2e9f251a15003",
+        "checkin": "2022-04-14T22:31:18.670Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6480e443376f7feb29b",
+        "checkin": "2021-01-15T00:38:30.716Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64808e58bb5ce74b363",
+        "checkin": "2021-04-03T12:42:14.863Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6482865119b00512836",
+        "checkin": "2021-03-07T09:14:30.209Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64857179d2b65b973d1",
+        "checkin": "2022-04-14T23:58:45.049Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648130b5df9a6f01938",
+        "checkin": "2021-09-21T16:30:58.212Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6484917fc15b180845a",
+        "checkin": "2021-01-07T11:31:34.102Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648d4f59280131bc500",
+        "checkin": "2021-11-11T19:41:55.915Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6484867e81afbc63d8b",
+        "checkin": "2021-09-12T06:16:29.661Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c648bfc2c28f799ed42a",
+        "checkin": "2021-05-22T12:57:30.344Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6488a0b0584d6ccfee7",
+        "checkin": "2022-01-24T16:39:10.574Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6489f63ab699846f45d",
+        "checkin": "2022-09-26T11:54:32.161Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c64804977b1c19ff7649",
+        "checkin": "2021-01-09T21:49:44.696Z",
+        "checkout": null
+      },
+      {
+        "id": "6306c6486cfc73681bbf27e9",
+        "checkin": "2022-03-22T02:25:32.903Z",
+        "checkout": null
+      }
+    ]
+  }
+]

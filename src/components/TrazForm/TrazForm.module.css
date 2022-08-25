@@ -1,0 +1,8 @@
+@import './../../App.css';
+
+.TrazForm {}
+
+.Input {
+    margin-bottom: 1rem !important;
+    height: 3.6rem;
+}
